@@ -10,8 +10,14 @@ body { background-color: rgb(240, 158, 215);
     transition: 1s; 
 }
     ol{
+       list-style: upper-alpha;
         float: left;
+        color: rgb(0, 0, 0);
+        font-size: large
  }
  ul{
+    list-style: square;
     float: right;
+    color: rgb(0, 0, 0);
+    font-size: large
  }
